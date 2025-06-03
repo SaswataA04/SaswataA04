@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning full stack development . 
 - 🌱 I’m currently learning cybersec n stuff
 - 💞️ I’m looking to collaborate on 
-- 📫  reach me at infoacaddesk@gmail.com 
+- 📫  reach me at heysaswataa@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an AIML student ,but a passionate cybersecurity noob. 
 
