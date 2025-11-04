@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SaswataA04
-- 👀 I’m interested in learning full stack development . 
-- 🌱 I’m currently learning cybersec n stuff
 - 💞️ I’m looking to collaborate on trending and emerging technologies. 
 - 📫  reach me at heysaswataa@gmail.com
 - 😄 Pronouns: He/Him
